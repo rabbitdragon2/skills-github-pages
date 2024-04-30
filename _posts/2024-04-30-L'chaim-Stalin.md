@@ -1,5 +1,5 @@
 ---
-title: "lchaim-stalin"
+title: "L'chaim Stalin"
 date: 2024-04-30
 ---
 
